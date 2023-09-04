@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/StealthintheWoods.ogg-a80ac9e7f264838a04e99ec4634b3791.oggstr"
+
+[deps]
+
+source_file="res://TheUpsideDown_Assets/SFX/Music/StealthintheWoods.ogg"
+dest_files=[ "res://.import/StealthintheWoods.ogg-a80ac9e7f264838a04e99ec4634b3791.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

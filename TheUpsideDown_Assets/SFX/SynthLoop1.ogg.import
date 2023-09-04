@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/SynthLoop1.ogg-56d5bacff0afd57b0b4040692f8c96af.oggstr"
+
+[deps]
+
+source_file="res://TheUpsideDown_Assets/SFX/SynthLoop1.ogg"
+dest_files=[ "res://.import/SynthLoop1.ogg-56d5bacff0afd57b0b4040692f8c96af.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

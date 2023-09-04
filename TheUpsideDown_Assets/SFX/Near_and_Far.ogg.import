@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Near_and_Far.ogg-0d8bf42e9e5c316c5e410c45697a4b18.oggstr"
+
+[deps]
+
+source_file="res://TheUpsideDown_Assets/SFX/Near_and_Far.ogg"
+dest_files=[ "res://.import/Near_and_Far.ogg-0d8bf42e9e5c316c5e410c45697a4b18.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

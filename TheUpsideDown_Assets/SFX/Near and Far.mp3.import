@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Near and Far.mp3-e4a46e8ea9a8dfa1fd6e4d1650780a13.mp3str"
+
+[deps]
+
+source_file="res://TheUpsideDown_Assets/SFX/Near and Far.mp3"
+dest_files=[ "res://.import/Near and Far.mp3-e4a46e8ea9a8dfa1fd6e4d1650780a13.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

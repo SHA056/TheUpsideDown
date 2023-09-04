@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Zodik - TimeQ.ogg-18328ea28d7d4857d87deb9011cdfba7.oggstr"
+
+[deps]
+
+source_file="res://TheUpsideDown_Assets/SFX/Zodik - TimeQ.ogg"
+dest_files=[ "res://.import/Zodik - TimeQ.ogg-18328ea28d7d4857d87deb9011cdfba7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

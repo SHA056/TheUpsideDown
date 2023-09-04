@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/doorClose_2.ogg-ab33752556cd0875610c1c10fa5a7122.oggstr"
+
+[deps]
+
+source_file="res://TheUpsideDown_Assets/SFX/doorClose_2.ogg"
+dest_files=[ "res://.import/doorClose_2.ogg-ab33752556cd0875610c1c10fa5a7122.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
